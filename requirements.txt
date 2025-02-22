@@ -1,0 +1,11 @@
+numpy
+pandas
+tensorflow
+tensorboard
+seaborn
+scikit-learn
+gdown
+unzip
+zipfile
+shutil
+requests

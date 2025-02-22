@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+unzipLoc/
+dataSet/
 
 # Spyder project settings
 .spyderproject
