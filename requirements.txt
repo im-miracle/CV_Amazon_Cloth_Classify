@@ -8,4 +8,6 @@ gdown
 unzip
 zipfile
 shutil
-requests
+pydot
+pydotplus
+graphviz

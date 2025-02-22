@@ -137,6 +137,7 @@ env.bak/
 venv.bak/
 unzipLoc/
 dataSet/
+notebooks/logs
 
 # Spyder project settings
 .spyderproject
